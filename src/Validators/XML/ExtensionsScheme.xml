@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+    <listOfExtensions>
+        <Extension>
+            <message> error while connecting to mdal details in #line </message>
+            <word>SEVER</word>
+            <word>MDAL</word>
+        </Extension>
+        <Extension>
+            <message> export failed details in #line </message>
+			<word>SEVERE</word>
+			<word>Expoting</word>
+        </Extension>
+        <Extension>
+            <message> categories issue </message>
+			<word>SEVERE</word>
+			<word>Categories</word>
+        </Extension>
+    </listOfExtensions>
+</extensions>
